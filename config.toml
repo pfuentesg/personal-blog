@@ -1,0 +1,9 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'What am I doing?'
+theme = 'minimal'
+googleAnalytics = "G-CN8BSW1DGW"
+canonifyURLs = true
+enableRobotsTXT = true
+[markup.goldmark.renderer]
+unsafe= true
